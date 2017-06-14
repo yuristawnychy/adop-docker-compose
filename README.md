@@ -1,6 +1,9 @@
 [![Build Status](https://travis-ci.org/Accenture/adop-docker-compose.svg?branch=master)](https://travis-ci.org/Accenture/adop-docker-compose)
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Accenture/ADOP)
 
+
+YURI's edits they are amazing...must be checking in right away
+
 # The DevOps Platform: Overview
 
 The DevOps Platform is a tools environment for continuously testing, releasing and maintaining applications. Reference code, delivery pipelines, automated testing and environments can be loaded in via the concept of [Cartridges](https://github.com/Accenture/adop-cartridge-skeleton).
